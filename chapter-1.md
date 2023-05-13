@@ -2,8 +2,6 @@
 
 Itaque earum rerum hic tenetur a sapiente delectus. Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo. At vero eos et accusamus. Eaque ipsa quae ab illo inventore veritatis et quasi.
 
-Corrupti quos dolores et quas molestias excepturi sint occaecati. **Lorem ipsum dolor sit amet, consectetur adipisicing elit.** _Ut enim ad minim veniam, quis nostrud exercitation ullamco._ Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
 ## Corrupti quos dolores et quas molestias excepturi sint occaecati.
 
 Corrupti quos dolores et quas molestias excepturi sint occaecati. Totam rem aperiam. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
